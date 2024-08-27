@@ -1,0 +1,13 @@
+dist/*
+.cache
+public
+node_modules
+*.esm.js
+jest.config.js
+jest.setup.js
+next.config.mjs
+tailwind.config.js
+*.json
+*.yml
+*.yaml
+*.snap
